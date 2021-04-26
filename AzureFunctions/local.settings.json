@@ -1,0 +1,9 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "DataFetchingSchedule": "0 */1 * * * *",
+    "DataFetchingUrl": "https://api.publicapis.org/random?auth=null"
+  }
+}
