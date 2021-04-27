@@ -16,3 +16,4 @@ What could have been done better:
 * Interfaces could have been created for similar interfaces (for example, ITableStorage and IBlobStorage - IStorage);
 * Exceptions could have been more descriptive, reused when possible;
 * Data format needed to be UTC;
+* Create tests for all logic;
